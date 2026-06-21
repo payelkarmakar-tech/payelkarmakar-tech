@@ -22,7 +22,7 @@ I'm a Data Engineer with 3.9 years of experience at Tata Consultancy Services, b
 
 ### 📌 Pinned projects
 
-> *(Add 1–3 repos here — even a cleaned-up personal ETL pipeline, an Airflow DAG demo, or a SQL optimization writeup goes a long way in backing up the resume.)*
+> **SportifyAzureProject**
 
 ### 📫 Let's connect
 
